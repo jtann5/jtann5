@@ -44,4 +44,4 @@ I’m excited to continue learning and growing in these fields.
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 ### 📊 GitHub Stats
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtann5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)
+[![Top Languages](./profile/top-langs.svg)](#)
