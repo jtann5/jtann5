@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently pursuing a Master’s in Computer Science at [Montana State University](https://montana.edu). 
-Throughout my studies, I have built several projects and collaborated on teams to hone my skills. 
-I’m passionate about software engineering, web development, and cybersecurity. 
-I’m excited to continue learning and growing in these fields.
+I’m a graduate student and teaching assistant pursuing a Master’s in Computer Science at [Montana State University](https://montana.edu), with interests in software engineering, cybersecurity, infrastructure, and web development. Through hands-on projects, group collaboration, and academic study, I’ve built software systems, designed and maintained secure, reliable infrastructure, and applied formal, algorithmic reasoning to real-world problems. I’m committed to growing into an engineer who builds impactful technology that meaningfully improves people’s lives.
 
 ### 💻 Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
@@ -30,6 +27,8 @@ I’m excited to continue learning and growing in these fields.
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](#)
+[![x86 Assembly](https://img.shields.io/badge/x86%20assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)](#)
 
 ### 🛠️ Technologies & Tools
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
@@ -42,6 +41,7 @@ I’m excited to continue learning and growing in these fields.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 ### 📊 GitHub Stats
 [![Top Languages](./profile/top-langs.svg)](#)
